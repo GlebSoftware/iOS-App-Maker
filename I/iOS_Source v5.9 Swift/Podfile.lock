@@ -1,0 +1,20 @@
+PODS:
+  - Google-Mobile-Ads-SDK (7.35.1)
+  - OneSignal (2.9.2)
+
+DEPENDENCIES:
+  - Google-Mobile-Ads-SDK
+  - OneSignal (< 3.0, >= 2.6.2)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Google-Mobile-Ads-SDK
+    - OneSignal
+
+SPEC CHECKSUMS:
+  Google-Mobile-Ads-SDK: 151d5e87b4a0ae6d7d07e2cd8d55d1b41ea2e61e
+  OneSignal: e00b18be0a81e6e2009d27873c76a6153e5551fe
+
+PODFILE CHECKSUM: b3b2570e3bf42f0d09080c6f8415dc20d2713d30
+
+COCOAPODS: 1.5.0
